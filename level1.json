@@ -1,0 +1,10 @@
+{
+  "levelName": "Nível de Teste 1",
+  "objects": [
+    { "type": "platform", "position": {"x": 100, "y": 500} },
+    { "type": "platform", "position": {"x": 250, "y": 450} },
+    { "type": "platform", "position": {"x": 400, "y": 500} },
+    { "type": "coin", "position": {"x": 250, "y": 380} },
+    { "type": "coin", "position": {"x": 400, "y": 430} }
+  ]
+}
