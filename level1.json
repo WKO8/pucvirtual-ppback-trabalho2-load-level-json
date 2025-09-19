@@ -4,8 +4,8 @@
     { "type": "platform", "position": {"x": 100, "y": 500} },
     { "type": "platform", "position": {"x": 250, "y": 450} },
     { "type": "platform", "position": {"x": 400, "y": 500} },
-    { "type": "coin", "position": {"x": 170, "y": 430} },
-    { "type": "coin", "position": {"x": 320, "y": 380} },
-    { "type": "coin", "position": {"x": 470, "y": 430} }
+    { "type": "coin", "position": {"x": 160, "y": 430} },
+    { "type": "coin", "position": {"x": 310, "y": 380} },
+    { "type": "coin", "position": {"x": 460, "y": 430} }
   ]
 }
